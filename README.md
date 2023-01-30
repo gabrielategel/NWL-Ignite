@@ -1,2 +1,2 @@
 # NWL-Ignite
-Habit Control App
+Habits Control App
